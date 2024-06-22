@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color-purple: ;
+    padding: 20px;
+    text-align: center;
+}
+
+#projects {
+    padding: 20px;
+}
+
+.project {
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+footer {
+    background-color:red;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+{
+    background-image: url "",
+}
